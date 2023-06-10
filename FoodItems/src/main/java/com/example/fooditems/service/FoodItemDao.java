@@ -1,7 +1,7 @@
 package com.example.fooditems.service;
 import java.util.List;
 
-import com.example.fooditems.dao.FoodItem;
+import com.example.fooditems.entity.FoodItem;
 
 
 public interface FoodItemDao {

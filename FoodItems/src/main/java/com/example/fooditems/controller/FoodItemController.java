@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.example.fooditems.dao.FoodItem;
+import com.example.fooditems.entity.FoodItem;
 import com.example.fooditems.service.FoodItemDao;
 
 

@@ -5,7 +5,8 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.example.fooditems.dao.FoodItem;
+import com.example.fooditems.entity.FoodItem;
+import com.example.fooditems.repo.FoodItemRepository;
 
 @Service
 public class FoodItemDaoImpl implements FoodItemDao {
